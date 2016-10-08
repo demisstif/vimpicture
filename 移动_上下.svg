@@ -1,0 +1,32 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg" style="-webkit-user-select: text;">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g style="-webkit-user-select: text;" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_2" height="0" width="23.499794" y="204.498206" x="333.497055" stroke-width="1.5" stroke="#fff" fill="#ffffff"/>
+  <rect stroke="#fff" id="svg_3" height="29.999737" width="39.999649" y="87.499232" x="190.49831" stroke-width="1.5" fill="#ffffff"/>
+  <rect rx="3" stroke="#ffffff" id="svg_4" height="154.998636" width="177.498445" y="70.49938" x="366.496766" stroke-width="1.5" fill="#ccf9f9"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="9" id="svg_6" y="83.999262" x="387.496582" stroke-width="0" stroke="#ffffff" fill="#000000">#</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="9" id="svg_7" y="102.999095" x="407.496405" stroke-width="0" stroke="#ffffff" fill="#000000">#</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="9" id="svg_8" y="131.498845" x="389.496563" stroke-width="0" stroke="#ffffff" fill="#000000">#</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="9" id="svg_9" y="156.998623" x="389.496564" stroke-width="0" stroke="#ffffff" fill="#000000">*</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="9" id="svg_10" y="180.998412" x="373.996699" stroke-width="0" stroke="#ffffff" fill="#000000">*</text>
+  <text style="cursor: move;" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="7" id="svg_11" y="200.498241" x="390.496555" stroke-width="0" stroke="#ffffff" fill="#000000">*</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="9" id="svg_12" y="145.498723" x="440.996111" stroke-width="0" stroke="#ffffff" fill="#000000">%</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="9" id="svg_13" y="145.498723" x="480.995761" stroke-width="0" stroke="#ffffff" fill="#000000">%</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="9" id="svg_14" y="115.998982" x="505.995541" stroke-width="0" stroke="#ffffff" fill="#000000">%</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="9" id="svg_15" y="168.998517" x="504.495555" stroke-width="0" stroke="#ffffff" fill="#000000">%</text>
+  <path stroke="#ffffff" transform="rotate(-2.202765464782715 349.3503417968742,153.441619873047) " id="svg_17" d="m349.736724,185.293016c0.030714,-5.707642 0.060088,-12.287801 0.085965,-18.194576l-0.775357,-2.710371l-0.106352,23.341438l-0.336926,-2.004747c0.042217,-10.62707 0.088465,-23.111014 0.122753,-32.48769l-0.12197,-31.522422l0.359493,0l0.073145,19.695431l0.79162,0l-0.098194,-19.651352c0.030304,-6.192888 0.075152,-14.457419 0.099481,-18.790635l0.266235,50.085048l-0.266841,50.862006l-0.093052,-18.62214l0,0.00001z" stroke-width="1.5" fill="#ccf9f9"/>
+  <path transform="rotate(-90.15287780761719 329.9814453125,125.91134643554688) " id="svg_19" d="m331.132823,125.911348l-11.401258,-7.999931l20.499829,7.999931l-20.499829,7.999927l11.401258,-7.999927z" stroke-width="1.5" stroke="#ffffff" fill="#ccf9f9"/>
+  <path transform="rotate(-90.15287780761719 390.9809265136719,100.91156768798831) " id="svg_20" d="m392.13229,100.911565l-11.40126,-7.99993l20.49983,7.99993l-20.49983,7.99993l11.40126,-7.99993z" stroke-width="1.5" stroke="#ffffff" fill="#ccf9f9"/>
+  <path transform="rotate(90 391.68844604492193,173.84844970703128) " id="svg_21" d="m392.952109,173.848447l-12.513571,-9.249915l22.499802,9.249915l-22.499802,9.24991l12.513571,-9.24991z" stroke-width="1.5" stroke="#ffffff" fill="#ccf9f9"/>
+  <path stroke="#ffffff" id="svg_22" d="m456.290943,142.966256l5.218462,-4.99997l0,2.499978l7.562916,0l0,-2.499978l5.218459,4.99997l-5.218459,4.999944l0,-2.499972l-7.562916,0l0,2.499972l-5.218462,-4.999944z" stroke-width="1.5" fill="#ccf9f9"/>
+  <path transform="rotate(90 509.70123291015625,138.5513305664063) " stroke="#ffffff" id="svg_23" d="m492.95548,138.551346l9.709748,-5.932449l0,2.966217l14.071965,0l0,-2.966217l9.709743,5.932449l-9.709743,5.932417l0,-2.966209l-14.071965,0l0,2.966209l-9.709748,-5.932417z" stroke-width="1.5" fill="#ccf9f9"/>
+ </g>
+</svg>

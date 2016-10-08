@@ -1,0 +1,21 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg" style="-webkit-user-select: text;">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#1daaaa" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g style="-webkit-user-select: text;" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="263.499839" width="329.999799" y="49.499902" x="99.999954" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="183.999888" x="102.499931" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">0</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_3" y="187.499885" x="148.999903" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">^</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_4" y="185.999887" x="406.499746" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">$</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_6" y="182.999911" x="361.499615" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">g_</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_7" y="311.499802" x="103.499931" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">G</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="69.999957" x="102.499931" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">gg</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_10" y="181.999889" x="227.499854" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">/pattern</text>
+ </g>
+</svg>
