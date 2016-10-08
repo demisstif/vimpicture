@@ -1,0 +1,25 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg" style="-webkit-user-select: text;">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#76ed8a" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g style="-webkit-user-select: text;" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="323" width="489" y="39" x="54.5" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="175" x="176.5" stroke-width="0" stroke="#000" fill="#000000">h</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_3" y="198" x="313.5" stroke-width="0" stroke="#000" fill="#000000">j</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="170" x="416.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">L</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_6" y="134" x="307.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">k</text>
+  <path stroke="#000" transform="rotate(89.87323760986328 487.6378479003906,169.32148742675784) " id="svg_11" d="m464.638942,169.223077l22.998905,-40.902677l22.998905,40.902677l-11.499453,0l0,41.099493l-22.998903,0l0,-41.099493l-11.499453,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <path id="svg_12" d="m287.384987,76.932994l27.499992,-35.414794l27.499992,35.414794l-13.749997,0l0,35.585204l-27.499991,0l0,-35.585204l-13.749997,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <path transform="rotate(-179.5333709716797 314.3199768066406,241.92820739746097) " id="svg_13" d="m286.819991,241.853804l27.499987,-30.925603l27.499987,30.925603l-13.749994,0l0,31.074411l-27.499985,0l0,-31.074411l-13.749994,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <path transform="rotate(-91 123.13998413085939,169.57679748535156) " id="svg_14" d="m98.63999,169.478392l24.499996,-40.901602l24.499996,40.901602l-12.249999,0l0,41.098413l-24.499995,0l0,-41.098413l-12.249999,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <rect id="svg_15" height="35" width="488" y="328" x="56.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#bff2f2"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_16" y="354" x="83.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">:help</text>
+ </g>
+</svg>
