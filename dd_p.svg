@@ -1,0 +1,32 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg" style="-webkit-user-select: text;">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_14_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#aad4ff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g style="-webkit-user-select: text;" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000" id="svg_1" height="29" width="381.000011" y="2" x="0.5" stroke-width="1.5" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="28" x="253.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#C48157">*********</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_3" y="22" x="24.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">dd</text>
+  <path transform="rotate(92 202.69746398925778,96.84416961669922) " id="svg_4" d="m197.515271,121.57144l18.074523,-15.272724l-34.946207,0l-34.946131,0l0,-9.45454l0,-9.45455l34.545228,0c18.999849,0 34.545201,-0.479201 34.545201,-1.064895c0,-0.585681 -7.56378,-7.458409 -16.808381,-15.272721l-16.808434,-14.207843l15.536129,0l15.536072,0l23.727101,20.019159l23.727089,20.019149l-23.772605,19.980846l-23.772597,19.980846l-16.355765,0l-16.355803,0l18.074572,-15.272731l0.000008,0.000003z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <rect stroke="#000" id="svg_5" height="36" width="378.000004" y="158" x="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <rect stroke="#000" id="svg_6" height="33" width="378.999991" y="309" x="-5.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="#fff"/>
+  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_7" y="330" x="14.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">p</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_8" y="344" x="229.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#C48157">*********</text>
+  <rect id="svg_9" height="82" width="119" y="129" x="437.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#B1FFFF"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_10" y="121" x="448.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#FFB27C">clipboard</text>
+  <path transform="rotate(47.704139709472656 391.66748046875,78.90416717529298) " id="svg_11" d="m387.212604,100.540529l15.537747,-13.363633l-30.041475,0l-30.04141,0l0,-8.272722l0,-8.27273l29.696774,0c16.333203,0 29.696751,-0.419301 29.696751,-0.931783c0,-0.512471 -6.502197,-6.526108 -14.449309,-13.36363l-14.449355,-12.431862l13.35562,0l13.35557,0l20.396981,17.516763l20.396971,17.516755l-20.436098,17.483239l-20.436092,17.483239l-14.060219,0l-14.060252,0l15.53779,-13.363639l0.000007,0.000003z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#FFB27C"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_12" y="187" x="453.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#C48157">*********</text>
+  <path transform="rotate(134.58981323242188 429.66748046875,277.9041748046875) " id="svg_13" d="m425.2126,299.54053l15.53775,-13.36363l-30.04147,0l-30.04141,0l0,-8.27273l0,-8.27273l29.69677,0c16.3332,0 29.69675,-0.4193 29.69675,-0.93178c0,-0.51247 -6.5022,-6.52611 -14.44931,-13.36363l-14.44935,-12.43186l13.35562,0l13.35557,0l20.39698,17.51676l20.39697,17.51676l-20.4361,17.48324l-20.43609,17.48324l-14.06022,0l-14.06025,0l15.53779,-13.36364l0,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#FFB27C"/>
+  <rect filter="url(#svg_14_blur)" rx="21" opacity="0.18" id="svg_14" height="222" width="428" y="0" x="1.5" stroke-opacity="null" stroke-width="4.5" stroke="#000" fill="#529D94"/>
+ </g>
+</svg>
