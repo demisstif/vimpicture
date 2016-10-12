@@ -1,0 +1,37 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg" style="-webkit-user-select: text;">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g style="-webkit-user-select: text;" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000" id="svg_1" height="305.999991" width="34" y="-1" x="1.5" stroke-width="1.5" fill="#BBBBBB"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="25" x="14.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">1</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_3" y="59" x="14.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">2</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_4" y="91" x="14.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">3</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="123" x="14.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">4</text>
+  <rect id="svg_6" height="37" width="584" y="361" x="2.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#A4FFFF"/>
+  <rect id="svg_7" height="1" width="0" y="342" x="-165.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#ffffff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_8" y="18" x="44.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">gg</text>
+  <text transform="matrix(1,0,0,1,0,0) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="152" x="14.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">5</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_10" y="183" x="14.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">6</text>
+  <text transform="matrix(1,0,0,1,0,0) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_11" y="215" x="14.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">7</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_12" y="245" x="14.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">8</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_13" y="276" x="14.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">9</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_14" y="277" x="40.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">G</text>
+  <rect stroke="#000" id="svg_15" height="38" width="542.999991" y="68" x="36.500001" stroke-opacity="null" stroke-width="1.5" fill="#D1FFB4"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_16" y="95" x="45.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">0</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_17" y="99" x="104.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">^</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_18" y="93" x="220.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">/pattern</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_19" y="92" x="447.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">g_</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_20" y="95" x="549.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">$</text>
+  <rect stroke="#000" id="svg_21" height="36" width="545.000003" y="191" x="34.499997" stroke-opacity="null" stroke-width="1.5" fill="#D1FFB4"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_22" y="388" x="7.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">:7G</text>
+  <path id="svg_23" d="m319.909988,292.71419l24.999999,-48.882399l24.999999,48.882399l-12.5,0l0,49.117612l-24.999997,0l0,-49.117612l-12.5,0z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#FFF093"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_24" y="386" x="51.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">(nG)</text>
+ </g>
+</svg>
