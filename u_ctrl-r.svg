@@ -1,0 +1,27 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg" style="-webkit-user-select: text;">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#47c8e8" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g style="-webkit-user-select: text;" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="50" width="582" y="26" x="1.5" stroke-width="1.5" stroke="#000" fill="#FFF093"/>
+  <rect id="svg_4" height="50" width="582" y="124" x="-0.5" stroke-width="1.5" stroke="#000" fill="#FFF093"/>
+  <rect id="svg_5" height="50" width="582" y="219" x="-1.5" stroke-width="1.5" stroke="#000" fill="#FFF093"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_6" y="58" x="77.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#A8FFE9">foo/bar</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_7" y="157" x="80.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#84D3DB">foo</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_8" y="251" x="77.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#84D3DB">foo/bar</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="251" x="15.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ff007f">u</text>
+  <path stroke="#000" transform="rotate(90.54203033447266 107.93200683593749,98.97233581542969) " id="svg_10" d="m90.787837,113.119222l15.998495,-14.150334l-15.998495,-14.150435l9.14395,-8.086804l25.144385,22.237239l-25.144385,22.244138" stroke-opacity="null" stroke-width="1.5" fill="#B1FFFF"/>
+  <path stroke="#000" transform="rotate(90.54203033447266 101.93200683593753,199.9723358154297) " id="svg_11" d="m84.78784,214.11922l15.99849,-14.15033l-15.99849,-14.15044l9.14395,-8.0868l25.14438,22.23724l-25.14438,22.24414" stroke-opacity="null" stroke-width="1.5" fill="#B1FFFF"/>
+  <rect id="svg_13" height="50" width="582" y="314" x="-2.5" stroke-width="1.5" stroke="#000" fill="#FFF093"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_14" y="348" x="81.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#7DD8B5">foo</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_15" y="349" x="7.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ff007f">ctrl+r</text>
+  <path stroke="#000" transform="rotate(90.54203033447266 100.93200683593749,291.97235107421875) " id="svg_16" d="m83.78784,306.11922l15.99849,-14.15033l-15.99849,-14.15044l9.14395,-8.0868l25.14438,22.23724l-25.14438,22.24414" stroke-opacity="null" stroke-width="1.5" fill="#B1FFFF"/>
+ </g>
+</svg>
